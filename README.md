@@ -1,0 +1,1 @@
+This repository contains the project files for an AI-based air quality prediction model developed as part of the AICTE internship with Edunet. The model leverages machine learning techniques to predict air quality levels using historical data and various environmental parameters.
